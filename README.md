@@ -13,11 +13,11 @@ Model implemented in a [Jupyter] notebook using [JuMP] (Julia for Mathematical O
 
 ### Data
 
-Data derived from various sources; including USDA\[1\]\[2\] and the Manitoba Agriculture Office \[3\]
+Data derived from various sources; including USDA<sup>[1](#1)</sup><sup>[2](#2)</sup> and the Manitoba Agriculture Office <sup>[3](#3)</sup>
 
-1. https://www.nass.usda.gov/Publications/Todays_Reports/reports/cpvl0217.pdf
-2. http://usda.mannlib.cornell.edu/usda/current/CropProdSu/CropProdSu-01-12-2018.pdf
-3. http://www.gov.mb.ca/agriculture/farm-management/financial-management/pubs/cop-crop-production.pdf
+<a name="1"></a>1. https://www.nass.usda.gov/Publications/Todays_Reports/reports/cpvl0217.pdf
+<a name="2"></a>2. http://usda.mannlib.cornell.edu/usda/current/CropProdSu/CropProdSu-01-12-2018.pdf
+<a name="3"></a>3. http://www.gov.mb.ca/agriculture/farm-management/financial-management/pubs/cop-crop-production.pdf
 
 
    [CS 524]: <https://www.cs.wisc.edu/courses/524>
