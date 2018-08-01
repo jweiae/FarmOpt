@@ -11,6 +11,14 @@ Group Project for [CS 524] which attempts to model an optimization problem faced
 
 Model implemented in a [Jupyter] notebook using [JuMP] (Julia for Mathematical Optimization).
 
+### Data
+
+Data derived from various sources; including USDA\[1\]\[2\] and the Manitoba Agriculture Office \[3\]
+
+1. https://www.nass.usda.gov/Publications/Todays_Reports/reports/cpvl0217.pdf
+2. http://usda.mannlib.cornell.edu/usda/current/CropProdSu/CropProdSu-01-12-2018.pdf
+3. http://www.gov.mb.ca/agriculture/farm-management/financial-management/pubs/cop-crop-production.pdf
+
 
    [CS 524]: <https://www.cs.wisc.edu/courses/524>
    [Jupyter]: <http://jupyter.org/>
