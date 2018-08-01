@@ -16,7 +16,9 @@ Model implemented in a [Jupyter] notebook using [JuMP] (Julia for Mathematical O
 Data derived from various sources; including USDA<sup>[1](#1)</sup><sup>[2](#2)</sup> and the Manitoba Agriculture Office <sup>[3](#3)</sup>
 
 <a name="1"></a>1. https://www.nass.usda.gov/Publications/Todays_Reports/reports/cpvl0217.pdf
+
 <a name="2"></a>2. http://usda.mannlib.cornell.edu/usda/current/CropProdSu/CropProdSu-01-12-2018.pdf
+
 <a name="3"></a>3. http://www.gov.mb.ca/agriculture/farm-management/financial-management/pubs/cop-crop-production.pdf
 
 
