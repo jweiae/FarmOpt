@@ -13,7 +13,7 @@ Model implemented in a [Jupyter] notebook using [JuMP] (Julia for Mathematical O
 
 ### Data
 
-Data derived from various sources; including USDA<sup>[1](#1)</sup><sup>[2](#2)</sup> and the Manitoba Agriculture Office <sup>[3](#3)</sup>
+Data derived from various sources; including USDA<sup>[1](#1),[2](#2)</sup> and the Manitoba Agriculture Office <sup>[3](#3)</sup>
 
 <a name="1"></a>1. https://www.nass.usda.gov/Publications/Todays_Reports/reports/cpvl0217.pdf
 
