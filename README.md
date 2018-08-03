@@ -21,6 +21,9 @@ Data derived from various sources; including USDA<sup>[1](#1),[2](#2)</sup> and 
 
 <a name="3"></a>3. http://www.gov.mb.ca/agriculture/farm-management/financial-management/pubs/cop-crop-production.pdf
 
+<a name="3"></a>4. http://www2.econ.iastate.edu/estimated-returns/Farrow%20to%20Finish%20PDF.pdf
+
+<a name="3"></a>5. http://www2.econ.iastate.edu/estimated-returns/Finishing%20Yearling%20Steers%20PDF.pdf
 
    [CS 524]: <https://www.cs.wisc.edu/courses/524>
    [Jupyter]: <http://jupyter.org/>
