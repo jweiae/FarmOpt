@@ -27,6 +27,14 @@ Data derived from various sources; including USDA<sup>[1](#1),[2](#2)</sup> and 
 
 <a name="6"></a>6. https://www.salon.com/2015/02/10/what_nobody_told_me_about_small_farming_i_cant_make_a_living/
 
+<a name="7"></a>7. http://www2.econ.iastate.edu/estimated-returns/Finishing%20Steer%20Calves%20PDF.pdf
+
+<a name="8"></a>8. https://www.extension.iastate.edu/agdm/ldcostsreturns.html
+
+<a name="9"></a>9. https://www.cias.wisc.edu/large-scale-pastured-poultry-farming-in-the-us/
+
+<a name="10"></a>10. http://www.utm.edu/departments/msanr/_pdfs/hamra%20research%20project%20final.pdf
+
    [CS 524]: <https://www.cs.wisc.edu/courses/524>
    [Jupyter]: <http://jupyter.org/>
    [JuMP]: <https://github.com/JuliaOpt/JuMP.jl>
