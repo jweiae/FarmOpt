@@ -1,4 +1,5 @@
-,Enclosed Housing (sq. ft./hd),Exercise Yard (sq.ft./hd),Pasture (acres/hd),Corn ($/hd),Soybean ($/hd),Wheat ($/hd),Hay ($/hd),Other Costs ($/hd),Returns ($/hd)
+,Enclosed Housing,Exercise Yard,Pasture,Corn,Soybean,Wheat,Hay,Other Costs,Returns
+unit,sq. ft./hd,sq.ft./hd,acres/hd,$/hd,$/hd,$/hd,$/hd,$/hd,$/hd
 Yearling Steers,75,100,1,259.18,0,121.6,88.24,2586.44,133.74
 Steers Calves,75,100,1,164.28,0,84.11,93.75,1224.4,23.8
 Dairy Goat,20,50,0.2,0,0,114.75,90,494.16,29.92
